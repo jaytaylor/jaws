@@ -35,7 +35,7 @@ Example:
             <dependency>
                 <groupId>com.github.jaytaylor</groupId>
                 <artifactId>jaws</artifactId>
-                <version>1.3</version>
+                <version>1.3.1</version>
             </dependency>
         </dependencies>
     </project>

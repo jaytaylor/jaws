@@ -4,6 +4,8 @@ http://lyle.smu.edu/~tspell/jaws/
 
 Version 1.3
 
+[![Release](https://jitpack.io/v/jaytaylor/jaws.svg)](https://jitpack.io/#jaytaylor/jaws)
+
 ## How to use this repository
 
 ### Maven

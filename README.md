@@ -8,7 +8,7 @@ Current Version: 1.3.1
 
 JAWS was originally written and created by Brett Spell.
 
-I ([Jay Taylor](http://jaytaylor.com)) have done my best to resurrect this code and its corresponding documentation (with the help of archive.org).  There was no license included or referenced anywhere that I found.
+I ([Jay Taylor](http://jaytaylor.com)) have done my best to resurrect this code and its corresponding documentation (with the help of both Brett Spell and archive.org).
 
 ## How to use this repository
 
